@@ -1,5 +1,4 @@
-# TSI Coop
-We are building open, modular data infrastructure for Indian Organisations.
+# Open-source, modular data infrastructure for Indian organisations
 
 Organisations should own and control their data infrastructure. We see two extremes in digital adoption today: either they get locked into vendors that restrict data control, or they build custom solutions with poor data architecture. They need a modular, open data infrastructure that they can bank on.
 
